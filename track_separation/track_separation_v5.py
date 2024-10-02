@@ -280,7 +280,7 @@ def process_events(radius_to_project):
 
                     if tr_p > highest_p:
                         highest_p = tr_p
-                        highest_momentum_idx = track_idx
+                        #highest_momentum_idx = track_idx
                         highest_track_coords = tr_x,tr_y
                 
 
